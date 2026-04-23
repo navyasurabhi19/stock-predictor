@@ -7,3 +7,4 @@ yahooquery
 supabase
 python-dotenv
 plotly
+tensorflow
